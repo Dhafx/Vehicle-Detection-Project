@@ -5,8 +5,9 @@
 This project is made  focuses on detecting vehicles using the YOLOv8 model and tracking them with sort algorithm. This project was created as part of a selection task for an internship at Widya Robotics.
 
 ## Setup
+1. **Python Version**: This program is developed using Python 3.11.
 
-1. **Install Dependencies**: Ensure you have all the necessary Python packages installed.
+2. **Install Dependencies**: Ensure you have all the necessary Python packages installed.
    ```
     pip install -r requirements.txt
     ```

@@ -6,10 +6,13 @@ This project is made  focuses on detecting vehicles using the YOLOv8 model and t
 
 ## Setup
 
-1. **Install Dependencies**: Ensure you have all the necessary Python packages installed. 
+1. **Install Dependencies**: Ensure you have all the necessary Python packages installed.
+   ```
+    pip install -r requirements.txt
+    ```
 
-2. **Environment**:
-    - I run this code using GPU a GPU environment with CUDA and cuDNN support.
+3. **Environment**:
+    - I run and made this code using GPU environment with CUDA and cuDNN support.
 
 ## Running the Project
 
